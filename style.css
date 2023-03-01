@@ -71,8 +71,8 @@ h4 {
     border-radius: 5px;
     font-weight: 500;
     padding: 12px 20px;
-    background: #8a6cff;
-    border: 2px solid #fff;
+    background: black;
+    border: 2px solid wheat;
     box-shadow: 0 10px 20px rgba(52, 87, 220, 0.08);
     transform: translateX(-50%);
 
